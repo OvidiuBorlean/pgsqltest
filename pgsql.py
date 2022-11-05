@@ -18,10 +18,10 @@ def checkPostgresql (host, user, dbname, password):
       print("Connection Failure")
 # Update connection string information
 
-host = "postgresqlnet.postgres.database.azure.com"
+host = ".com"
 dbname = "postgres"
-user = "azureuser@postgresqlnet"
-password = "LAwpq8rstyo2ovi"
+user = ""
+password = ""
 sslmode = "require"
 
 
